@@ -1,7 +1,9 @@
 HI I'M SAKTHIDASS
     this is my react project for kafene store management
-    i didn't upload node module so, you have to run 
+    i didn't upload node module so, you have to run
+    
     npx create-react-app any-name
+    
     this command in terminal
     then replace src folder with my src folder
 
