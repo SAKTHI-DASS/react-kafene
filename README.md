@@ -1,4 +1,19 @@
+HI I'M SAKTHIDASS
+    this is my react project for kafene store management
+    i didn't upload node module so, you have to run 
+    npx create-react-app any-name
+    this command in terminal
+    then replace src folder with my src folder
+
+    then,run
+    npm start
+
+    i have uploded this project in gdrive,vercel and git
+    i'm not able to host this in netlify due to some network technical issues
+
+    
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
