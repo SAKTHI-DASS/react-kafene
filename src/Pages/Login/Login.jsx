@@ -28,7 +28,7 @@ const Login = () => {
       return;
     }
 
-    if (inputValue.userName === "qaif" && inputValue.password === "qaif") {
+    if (inputValue.userName === "qaifi" && inputValue.password === "qaifi") {
       alert(`Login Successful...${inputValue.userName}`);
       navigate("/order");
     } else {
